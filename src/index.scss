@@ -1,0 +1,23 @@
+body {
+  margin: 0;
+  padding: 20px 40px;
+  font-family: 'Raleway',Segoe UI;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+a{
+  text-decoration: none;
+  color: black;
+}
+a:hover{
+  color: pink;
+}
+*{
+  box-sizing: border-box;
+}
